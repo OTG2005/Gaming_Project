@@ -1,0 +1,917 @@
+fileFormatVersion: 2
+guid: 2850d276d9a03384cbc35a064bcca753
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3093
+        width: 244
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f8e209e68d2de439091fc75666d41c
+      internalID: -292035435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_1
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 3093
+        width: 242
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974b454c10e5ce24ab57655ddc314902
+      internalID: -989149989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_2
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 3093
+        width: 242
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764bc68dcf8893f449b03a7c54ea5541
+      internalID: -2120632954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_3
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 3093
+        width: 240
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511b1831e3422ea4f9dec1902aa7e856
+      internalID: -793628306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2581
+        width: 292
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a46600ba557e041bd85ab2491ec621
+      internalID: 416981411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_5
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2581
+        width: 234
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d518746dbe864b43acca7d24d3b08a3
+      internalID: -1884806535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_6
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 2581
+        width: 186
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c0b58d82c73b44d9372f4ccb3cc2ad
+      internalID: -138791978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_7
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 2581
+        width: 262
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b96f6361b2016b45aed220debe536fb
+      internalID: 1783496858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_8
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 2581
+        width: 294
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec5a4fca2fa39d479bb494eccf86f48
+      internalID: 1610245425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_9
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 2581
+        width: 236
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ed11dbc66dd4143b93a2513098d719
+      internalID: -261375976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_10
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 2581
+        width: 200
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f0c68c1a9e242409a9015adfaf308c
+      internalID: 1890543804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_11
+      rect:
+        serializedVersion: 2
+        x: 3685
+        y: 2581
+        width: 268
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b48041f4f4f5d4bbed427737278081
+      internalID: -1048175618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2069
+        width: 308
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abec2934abc01a445808f33e2a7ac706
+      internalID: 519001067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_13
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 2069
+        width: 282
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad1d8e7fde7dfe43bb0dbc767585e4e
+      internalID: -1776526389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_14
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 2069
+        width: 216
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be59db27d145d424e8bf31a7a7a15c60
+      internalID: -860941042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_15
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2069
+        width: 192
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b772334c9d1e0804aa5e4506ff66c7b9
+      internalID: -793623221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_16
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1557
+        width: 232
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146c91106ca721a4db869415776f8f26
+      internalID: -219248771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_17
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1557
+        width: 232
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4cfce359ff52b40b77050a5d19b4f8
+      internalID: 1616737019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_18
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1557
+        width: 224
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba00563b979838f4bb81bf1f347ff2e0
+      internalID: 1130277730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_19
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1557
+        width: 200
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c6701f698aade40acb6f3eecccb988
+      internalID: -466175069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_20
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1045
+        width: 246
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7a9ad1d1c1a144db45ebe11df78623
+      internalID: -112612907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_21
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1045
+        width: 260
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa5fa165938ddd48b339a97d3c992ce
+      internalID: -843909207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_22
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1045
+        width: 240
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4419daee3aaa654492e6458ca6ae9ad
+      internalID: 383794900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_23
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1045
+        width: 246
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc5ffa0bd13aeb46989fa10b38f80cb
+      internalID: -827338719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_24
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 533
+        width: 196
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514c8c1fee3f06c4cba977e79848100a
+      internalID: 1205051146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_25
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 533
+        width: 282
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8473b93d264064b4d902541e238971de
+      internalID: 237458657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_26
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 533
+        width: 306
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7781930a727dda14593825d51e641e36
+      internalID: 1426770804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_27
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 533
+        width: 386
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb807580675f2f438ff1500c8b5fdc8
+      internalID: -1731799618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_28
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 533
+        width: 368
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a47dfa9c833fc4aaffc30a47173a25
+      internalID: -300954660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_29
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 533
+        width: 256
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab46fbc88bcb2a449757f4986a08785
+      internalID: 495111321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 21
+        width: 236
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37b17ae1b8b71f419525972348b1876
+      internalID: 1798679601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_31
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 21
+        width: 274
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d42c512f97684f43928b556c7e882e2
+      internalID: -772075657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_32
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 21
+        width: 232
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b69052ddb130f240bc0de24f049e148
+      internalID: 1703479946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_33
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 21
+        width: 240
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674ea2b469882104d9f79e8932688a2f
+      internalID: -932579214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erik_spritesheet_v2_34
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 3160
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95650713f098b154f8b6a07bb93f9c85
+      internalID: 504908978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      erik_spritesheet_v2_18: 1130277730
+      erik_spritesheet_v2_34: 504908978
+      erik_spritesheet_v2_25: 237458657
+      erik_spritesheet_v2_31: -772075657
+      erik_spritesheet_v2_4: 416981411
+      erik_spritesheet_v2_27: -1731799618
+      erik_spritesheet_v2_1: -989149989
+      erik_spritesheet_v2_9: -261375976
+      erik_spritesheet_v2_26: 1426770804
+      erik_spritesheet_v2_15: -793623221
+      erik_spritesheet_v2_29: 495111321
+      erik_spritesheet_v2_12: 519001067
+      erik_spritesheet_v2_6: -138791978
+      erik_spritesheet_v2_11: -1048175618
+      erik_spritesheet_v2_14: -860941042
+      erik_spritesheet_v2_0: -292035435
+      erik_spritesheet_v2_2: -2120632954
+      erik_spritesheet_v2_23: -827338719
+      erik_spritesheet_v2_17: 1616737019
+      erik_spritesheet_v2_24: 1205051146
+      erik_spritesheet_v2_7: 1783496858
+      erik_spritesheet_v2_8: 1610245425
+      erik_spritesheet_v2_3: -793628306
+      erik_spritesheet_v2_10: 1890543804
+      erik_spritesheet_v2_19: -466175069
+      erik_spritesheet_v2_13: -1776526389
+      erik_spritesheet_v2_20: -112612907
+      erik_spritesheet_v2_33: -932579214
+      erik_spritesheet_v2_16: -219248771
+      erik_spritesheet_v2_28: -300954660
+      erik_spritesheet_v2_22: 383794900
+      erik_spritesheet_v2_30: 1798679601
+      erik_spritesheet_v2_32: 1703479946
+      erik_spritesheet_v2_5: -1884806535
+      erik_spritesheet_v2_21: -843909207
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
