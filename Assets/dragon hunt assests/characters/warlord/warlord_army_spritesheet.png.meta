@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -103,7 +103,595 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 825
+        width: 256
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186c39e8c7bb69f6e2a214e8bbe9c675
+      internalID: -167787203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 825
+        width: 256
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c22c46963e968fd64d4748ca3c77ebf
+      internalID: 2096416438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 825
+        width: 256
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e0689e1888df205bd0f521be84762b
+      internalID: -1903287511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 825
+        width: 256
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3981a844ab26d87b81e5e0309e6043
+      internalID: 1659438376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 701
+        width: 256
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08137f33a087ec91f95e90587134be1
+      internalID: 1437151557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 701
+        width: 256
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dfd21e9d1f5c016b8816776b5acb73
+      internalID: 668150086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 701
+        width: 256
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e166c70794a7506cc3ba5031835d1d
+      internalID: 525830533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 701
+        width: 256
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d0861e4f7e23534227e820e6a60526
+      internalID: 1626082794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 554
+        width: 256
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e8b5bcefb73578f78e1ffad9cf7a0c
+      internalID: 25585750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 554
+        width: 256
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c0e0b73abb1e8530a037efd7376ab4
+      internalID: -1247977002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 554
+        width: 256
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982ed19d185f80d2c54a55eb16013892
+      internalID: 1634007426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 554
+        width: 256
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cec5fe01d88fbcf39897dbbf44e1ec
+      internalID: -587719277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 256
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92d9e0fe310daeed817a1320b6451b0
+      internalID: 1952012081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 418
+        width: 256
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae2e12a945b3a5a89cad3eb60c17c73
+      internalID: 455107359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 418
+        width: 256
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c92b285eb3f8610c3372247b920155
+      internalID: 463662182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 418
+        width: 256
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d665c28fe736f1ee55080acdc9b508
+      internalID: 1016464221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 256
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1551ba755892aed719af35e661bb3d
+      internalID: 1179546543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 279
+        width: 256
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a20a266e68adc0ff98a772f76e2fa
+      internalID: -298064273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 279
+        width: 256
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e1a33c997e03539f29b853c58c2095
+      internalID: -1898626996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 279
+        width: 256
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce1d6d85329509420ed6099c4d25a1d
+      internalID: -1017484421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 256
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3de10030984dc47c1376d8f9e098745
+      internalID: 791925086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 129
+        width: 256
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bcfd88d973e377dd6bf2bf07baca0c
+      internalID: -278243568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 129
+        width: 256
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fcf64658ce03697c7f5f42593603e6
+      internalID: -1252487476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 129
+        width: 256
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f160561ace0b575b5b248874c49383a3
+      internalID: 1813233933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733171b53cffeaae8a356d29f3c7410c
+      internalID: 679099903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda54f6e28b0f89f70f758a186a6a37a
+      internalID: -2100925036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2758e50878c176b5590955caf46f7f0
+      internalID: -8533265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warlord_army_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae96da58865a2a3e0ff7c40d11f034d4
+      internalID: -1865604078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -114,7 +702,35 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      warlord_army_spritesheet_0: -167787203
+      warlord_army_spritesheet_1: 2096416438
+      warlord_army_spritesheet_2: -1903287511
+      warlord_army_spritesheet_3: 1659438376
+      warlord_army_spritesheet_4: 1437151557
+      warlord_army_spritesheet_5: 668150086
+      warlord_army_spritesheet_6: 525830533
+      warlord_army_spritesheet_7: 1626082794
+      warlord_army_spritesheet_8: 25585750
+      warlord_army_spritesheet_9: -1247977002
+      warlord_army_spritesheet_10: 1634007426
+      warlord_army_spritesheet_11: -587719277
+      warlord_army_spritesheet_12: 1952012081
+      warlord_army_spritesheet_13: 455107359
+      warlord_army_spritesheet_14: 463662182
+      warlord_army_spritesheet_15: 1016464221
+      warlord_army_spritesheet_16: 1179546543
+      warlord_army_spritesheet_17: -298064273
+      warlord_army_spritesheet_18: -1898626996
+      warlord_army_spritesheet_19: -1017484421
+      warlord_army_spritesheet_20: 791925086
+      warlord_army_spritesheet_21: -278243568
+      warlord_army_spritesheet_22: -1252487476
+      warlord_army_spritesheet_23: 1813233933
+      warlord_army_spritesheet_24: 679099903
+      warlord_army_spritesheet_25: -2100925036
+      warlord_army_spritesheet_26: -8533265
+      warlord_army_spritesheet_27: -1865604078
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

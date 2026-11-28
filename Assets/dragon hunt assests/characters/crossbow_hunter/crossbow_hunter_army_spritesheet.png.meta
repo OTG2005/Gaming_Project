@@ -108,10 +108,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1028.5714
-        width: 224
-        height: 171.42857
+        x: 74
+        y: 1032
+        width: 103
+        height: 158
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -129,10 +129,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_1
       rect:
         serializedVersion: 2
-        x: 224
-        y: 1028.5714
-        width: 224
-        height: 171.42857
+        x: 297
+        y: 1032
+        width: 101
+        height: 158
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,10 +150,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_2
       rect:
         serializedVersion: 2
-        x: 448
-        y: 1028.5714
-        width: 224
-        height: 171.42857
+        x: 522
+        y: 1032
+        width: 102
+        height: 158
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,10 +171,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_3
       rect:
         serializedVersion: 2
-        x: 672
-        y: 1028.5714
-        width: 224
-        height: 171.42857
+        x: 746
+        y: 1032
+        width: 102
+        height: 158
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,10 +192,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 857.5714
-        width: 224
-        height: 171.42857
+        x: 54
+        y: 862
+        width: 151
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,10 +213,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_5
       rect:
         serializedVersion: 2
-        x: 224
-        y: 857.5714
-        width: 224
-        height: 171.42857
+        x: 301
+        y: 862
+        width: 141
+        height: 153
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,10 +234,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_6
       rect:
         serializedVersion: 2
-        x: 448
-        y: 857.5714
-        width: 224
-        height: 171.42857
+        x: 497
+        y: 862
+        width: 158
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -255,10 +255,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_7
       rect:
         serializedVersion: 2
-        x: 672
-        y: 857.5714
-        width: 224
-        height: 171.42857
+        x: 743
+        y: 862
+        width: 145
+        height: 154
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -276,10 +276,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 686.5714
-        width: 224
-        height: 171.42857
+        x: 44
+        y: 690
+        width: 137
+        height: 154
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -297,10 +297,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_9
       rect:
         serializedVersion: 2
-        x: 224
-        y: 686.5714
-        width: 224
-        height: 171.42857
+        x: 263
+        y: 691
+        width: 153
+        height: 146
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -318,10 +318,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_10
       rect:
         serializedVersion: 2
-        x: 448
-        y: 686.5714
-        width: 224
-        height: 171.42857
+        x: 489
+        y: 690
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -339,10 +339,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_11
       rect:
         serializedVersion: 2
-        x: 672
-        y: 686.5714
-        width: 224
-        height: 171.42857
+        x: 746
+        y: 690
+        width: 110
+        height: 156
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -360,10 +360,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 515.5714
-        width: 224
-        height: 171.42857
+        x: 73
+        y: 518
+        width: 103
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -381,10 +381,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_13
       rect:
         serializedVersion: 2
-        x: 224
-        y: 515.5714
-        width: 224
-        height: 171.42857
+        x: 296
+        y: 518
+        width: 108
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -402,10 +402,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_14
       rect:
         serializedVersion: 2
-        x: 448
-        y: 515.5714
-        width: 224
-        height: 171.42857
+        x: 513
+        y: 519
+        width: 127
+        height: 129
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -423,10 +423,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_15
       rect:
         serializedVersion: 2
-        x: 672
-        y: 515.5714
-        width: 224
-        height: 171.42857
+        x: 730
+        y: 519
+        width: 147
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -444,10 +444,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_16
       rect:
         serializedVersion: 2
-        x: 0
-        y: 344.5714
-        width: 224
-        height: 171.42857
+        x: 77
+        y: 347
+        width: 104
+        height: 146
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -465,10 +465,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_17
       rect:
         serializedVersion: 2
-        x: 224
-        y: 344.5714
-        width: 224
-        height: 171.42857
+        x: 295
+        y: 347
+        width: 116
+        height: 151
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -486,10 +486,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_18
       rect:
         serializedVersion: 2
-        x: 448
-        y: 344.5714
-        width: 224
-        height: 171.42857
+        x: 523
+        y: 347
+        width: 109
+        height: 127
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -507,10 +507,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_19
       rect:
         serializedVersion: 2
-        x: 672
-        y: 344.5714
-        width: 224
-        height: 171.42857
+        x: 743
+        y: 347
+        width: 103
+        height: 98
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -528,10 +528,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_20
       rect:
         serializedVersion: 2
-        x: 0
-        y: 173.57143
-        width: 224
-        height: 171.42857
+        x: 69
+        y: 175
+        width: 121
+        height: 143
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -549,10 +549,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_21
       rect:
         serializedVersion: 2
-        x: 224
-        y: 173.57143
-        width: 224
-        height: 171.42857
+        x: 295
+        y: 175
+        width: 109
+        height: 140
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -570,10 +570,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_22
       rect:
         serializedVersion: 2
-        x: 448
-        y: 173.57143
-        width: 224
-        height: 171.42857
+        x: 509
+        y: 175
+        width: 125
+        height: 140
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -591,10 +591,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_23
       rect:
         serializedVersion: 2
-        x: 672
-        y: 173.57143
-        width: 224
-        height: 171.42857
+        x: 739
+        y: 176
+        width: 111
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -612,10 +612,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_24
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2.5714264
-        width: 224
-        height: 171.42857
+        x: 45
+        y: 5
+        width: 115
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -633,10 +633,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_25
       rect:
         serializedVersion: 2
-        x: 224
-        y: 2.5714264
-        width: 224
-        height: 171.42857
+        x: 249
+        y: 5
+        width: 154
+        height: 135
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -654,10 +654,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_26
       rect:
         serializedVersion: 2
-        x: 448
-        y: 2.5714264
-        width: 224
-        height: 171.42857
+        x: 515
+        y: 5
+        width: 103
+        height: 130
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -675,10 +675,10 @@ TextureImporter:
       name: crossbow_hunter_army_spritesheet_27
       rect:
         serializedVersion: 2
-        x: 672
-        y: 2.5714264
-        width: 224
-        height: 171.42857
+        x: 738
+        y: 5
+        width: 119
+        height: 138
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
