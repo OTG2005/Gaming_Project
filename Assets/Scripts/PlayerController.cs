@@ -7,9 +7,12 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
  public float moveSpeed;
  public float jumpHeight;
- public KeyCode spacebar;
- public KeyCode L;
- public KeyCode R;
+ public KeyCode jump;
+ public KeyCode left;
+ public KeyCode right;
+ public KeyCode jump2;
+ public KeyCode left2;
+ public KeyCode right2;
  public Transform groundCheck;
  public float groundCheckRadius;
  public LayerMask WhatIsGround;
@@ -25,11 +28,11 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
       
-      if(Input.GetKeyDown(spacebar)&& isGrounded)
+      if((Input.GetKeyDown(jump) || Input.GetKeyDown(jump2)) && isGrounded)
         {
           Jump();  
         }
-        if(Input.GetKey(L))
+        if(Input.GetKey(left) || Input.GetKey(left2))
         {
             GetComponent<Rigidbody2D>().velocity = new Vector2(-moveSpeed, GetComponent<Rigidbody2D>().velocity.y);
        if(GetComponent<SpriteRenderer>()!= null)
@@ -37,7 +40,7 @@ public class PlayerController : MonoBehaviour
             GetComponent<SpriteRenderer>().flipX = true;
         }
         }
-        if(Input.GetKey(R))
+        if(Input.GetKey(right) || Input.GetKey(right2))
         {
             GetComponent<Rigidbody2D>().velocity = new Vector2(moveSpeed, GetComponent<Rigidbody2D>().velocity.y);
             if(GetComponent<SpriteRenderer>()!= null)

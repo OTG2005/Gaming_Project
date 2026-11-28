@@ -172,10 +172,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 4
-  jumpHeight: 10
-  spacebar: 32
-  L: 276
-  R: 275
+  jumpHeight: 7
+  jump: 32
+  left: 276
+  right: 275
+  jump2: 119
+  left2: 97
+  right2: 100
   groundCheck: {fileID: 688942264749612854}
   groundCheckRadius: 0.1
   WhatIsGround:
@@ -215,7 +218,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 339e192eb7a2f4549913971fc3323d39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackKey: 120
+  attackKey: 107
   damage: 25
   range: 0.9
   hitDelay: 0.15
