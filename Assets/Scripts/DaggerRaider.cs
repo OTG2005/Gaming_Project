@@ -54,7 +54,11 @@ public class DaggerRaider : MonoBehaviour, IDamageable
             rb.velocity = new Vector2(dir * maxSpeed, rb.velocity.y);
         }
 
-        if (anim != null) anim.Play("Run");
+        if (anim != null)
+        {
+            anim.SetFloat("Speed", Mathf.Abs(rb.velocity.x));
+            anim.SetFloat("Height", rb.velocity.y);
+        }
     }
 
     public void Flip()
@@ -90,6 +94,7 @@ public class DaggerRaider : MonoBehaviour, IDamageable
         if (hp != null)
         {
             hp.TakeDamage(damage, transform.position);
+            if (flipOnHit && anim != null) anim.SetTrigger("Attack");
             if (flipOnHit) Flip();
         }
         else if (flipOnHit && other.CompareTag("Wall"))
@@ -104,10 +109,15 @@ public class DaggerRaider : MonoBehaviour, IDamageable
         if (isDead) return;
 
         health -= amount;
+        if (anim != null) anim.SetTrigger("Damage");
+
         if (health <= 0)
         {
             isDead = true;
-            Destroy(gameObject);
+            if (rb != null) rb.velocity = Vector2.zero;
+            Collider2D col = GetComponent<Collider2D>();
+            if (col != null) col.enabled = false;
+            Destroy(gameObject, 0.4f);
         }
     }
 }
