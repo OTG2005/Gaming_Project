@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -103,7 +103,595 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1028.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851694a86b0025347ab9cbb93cd05baf
+      internalID: -1077575970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1028.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669270ae6124c854585f3e15a22bb318
+      internalID: 557321235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1028.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640ce91570e37654790641453fd8472a
+      internalID: -1180423799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1028.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7050c2e05620f4cad76f918e433b2b
+      internalID: 1985796094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 857.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fc19013f785ad4697a0f7c4a18d55a
+      internalID: 1866598035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 857.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42d760b63cb46443b6db7c8010c0850
+      internalID: 1710336270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 857.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc31e4065b06124e882ff74ed6cbcf9
+      internalID: 2042407788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 857.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fd4145dfdd0cc4280bfffb5de3ca0a
+      internalID: 73424203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 686.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8162f7752804e3448ae817937228a8a6
+      internalID: -861809355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 686.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cd82ca633da0549adf04ab3760baac
+      internalID: 1309914095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 686.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bb1a09c28cce94da8bb023d99ad7d8
+      internalID: -2037328816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 686.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2019023ccdef36c4f80b7031528f26f5
+      internalID: -647412440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1329e9eadbfafe542ac73946f582395a
+      internalID: -468042971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 515.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee73b9d4c6dbce448a3ca140925247f9
+      internalID: 398083835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 515.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cffa8019a9eb542a6d98533b27f397
+      internalID: -854189775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 515.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61582f068f4b1a4d83975fe721020ff
+      internalID: -238418402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f95bb70e9e9a749a82836e5b28ef70
+      internalID: 1855059259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 344.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d749b7ec6c6eab346bb31a4b5a57cb55
+      internalID: 1001336388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 344.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb62fb58e10eb6459dff4a28db93758
+      internalID: 2030318214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 344.5714
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae80f6300ad969541ac7da47dee634ff
+      internalID: -1515521838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173.57143
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412319a889868c64cac153647fc3a0a8
+      internalID: -1205460553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 173.57143
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf3542a78dacd6499dc2dbf960dc882
+      internalID: 1489133984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 173.57143
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79888beac87c8164da336b130c39679c
+      internalID: -329763170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 173.57143
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957ca56e33b145b418a1206c4110af9c
+      internalID: 1989208487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.5714264
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c7fb1269e5e804aa1a445538bcc22c
+      internalID: -987265940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2.5714264
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b6ff06b14eed54bb32927a189a7b8b
+      internalID: 42227740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2.5714264
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8237a7532862aa1429b9a2ca58368b93
+      internalID: 1087651541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_hunter_army_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2.5714264
+        width: 224
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f453fc1bcb642064092c6488b51ff57f
+      internalID: 1156960028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -114,7 +702,35 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crossbow_hunter_army_spritesheet_14: -854189775
+      crossbow_hunter_army_spritesheet_23: 1989208487
+      crossbow_hunter_army_spritesheet_5: 1710336270
+      crossbow_hunter_army_spritesheet_15: -238418402
+      crossbow_hunter_army_spritesheet_4: 1866598035
+      crossbow_hunter_army_spritesheet_17: 1001336388
+      crossbow_hunter_army_spritesheet_13: 398083835
+      crossbow_hunter_army_spritesheet_18: 2030318214
+      crossbow_hunter_army_spritesheet_2: -1180423799
+      crossbow_hunter_army_spritesheet_25: 42227740
+      crossbow_hunter_army_spritesheet_24: -987265940
+      crossbow_hunter_army_spritesheet_3: 1985796094
+      crossbow_hunter_army_spritesheet_12: -468042971
+      crossbow_hunter_army_spritesheet_26: 1087651541
+      crossbow_hunter_army_spritesheet_0: -1077575970
+      crossbow_hunter_army_spritesheet_8: -861809355
+      crossbow_hunter_army_spritesheet_20: -1205460553
+      crossbow_hunter_army_spritesheet_21: 1489133984
+      crossbow_hunter_army_spritesheet_27: 1156960028
+      crossbow_hunter_army_spritesheet_16: 1855059259
+      crossbow_hunter_army_spritesheet_1: 557321235
+      crossbow_hunter_army_spritesheet_19: -1515521838
+      crossbow_hunter_army_spritesheet_6: 2042407788
+      crossbow_hunter_army_spritesheet_11: -647412440
+      crossbow_hunter_army_spritesheet_7: 73424203
+      crossbow_hunter_army_spritesheet_10: -2037328816
+      crossbow_hunter_army_spritesheet_22: -329763170
+      crossbow_hunter_army_spritesheet_9: 1309914095
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
